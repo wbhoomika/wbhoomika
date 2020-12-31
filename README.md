@@ -3,7 +3,7 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-###नमस्ते (Namaste)🙏🏻, I'm Bhoomika Wavhal<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## नमस्ते (Namaste)🙏🏻, I'm Bhoomika Wavhal<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wbhoomika.wbhoomika)
 
