@@ -12,15 +12,15 @@
 A passionate self-taught Web Developer 🚀 from India. Doing engineering in Electronics and Communication from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. 
 
 <br/>
-<h3> I love doing magic with coding. </h3>
+<h3> For me coding is like magic. </h3>
 
-➡️  Refresh this page to see one. 
+➡️  Refresh this page to see MAGIC. 
 
 <br/>
 
-<centre> 
+<p align="center">
     <img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
-</center>    
+</p>    
 
 <h1 align="center">
 <h3> 🤝🏻 Connect with Me </h3>
