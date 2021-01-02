@@ -15,9 +15,10 @@ A passionate self-taught Web Developer 🚀 from India. Doing engineering in Ele
 I love doing magic with coding. 
 ➡️  Refresh this page to see one. 
 <br/>
+
 <centre> 
     <img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
-</center    
+</center>    
 
 <h1 align="center">
 <h3> 🤝🏻 Connect with Me </h3>
