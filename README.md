@@ -12,8 +12,10 @@
 A passionate self-taught Web Developer 🚀 from India. Doing engineering in Electronics and Communication from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. 
 
 <br/>
-I love doing magic with coding. 
+<h3> I love doing magic with coding. </h3>
+
 ➡️  Refresh this page to see one. 
+
 <br/>
 
 <centre> 
