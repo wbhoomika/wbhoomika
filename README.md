@@ -3,13 +3,13 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-## नमस्ते (Namaste)🙏🏻, I'm Bhoomika Wavhal<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+## नमस्ते (Namaste/ Hello)🙏🏻, I'm Bhoomika Wavhal<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wbhoomika.wbhoomika)
 
 <br/>
 
-A passionate self-taught Web Developer 🚀 from India. Currently pursuing engineering degree in Electronics and Communication from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. 
+A passionate self-taught Web Developer 🚀 from India. Currently working at Deutsche Bank. Electronics and Communication engineer by degree, Software Engineer by heart. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. 
 
 <br/>
 <h3> For me coding is like magic. </h3>
